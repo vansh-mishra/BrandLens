@@ -1,6 +1,6 @@
 ## Render deployment troubleshooting
 [`link`](https://brandlens-demo-98xc.onrender.com)
-This repository includes a `Dockerfile` and a Docker-based `render.yaml`. The Docker build uses Node to compile the React frontend and Python to run FastAPI, avoiding a mixed-toolchain assumption in a single native runtime. For deployment steps and how to update an existing Render Blueprint, see [`RENDER_DEPLOY_FIX.md`](RENDER_DEPLOY_FIX.md).
+This repository includes a `Dockerfile` and a Docker-based `render.yaml`. The Docker build uses Node to compile the React frontend and Python to run FastAPI, avoiding a mixed-toolchain assumption in a single native runtime.
 
 # BrandLens — evidence-backed brand governance
 
